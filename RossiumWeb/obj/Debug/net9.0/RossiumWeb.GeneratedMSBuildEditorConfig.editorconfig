@@ -24,16 +24,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Manuel Hector/Desktop/RepoRossium/RossiumWeb/Pages/Gabriel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FicmllbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Manuel Hector/Desktop/RepoRossium/RossiumWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Manuel Hector/Desktop/RepoRossium/RossiumWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Manuel Hector/Desktop/RepoRossium/RossiumWeb/Pages/Shared/Gabriel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEdhYnJpZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Manuel Hector/Desktop/RepoRossium/RossiumWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
