@@ -1,31 +1,51 @@
-html {
-  font-size: 14px;
+.text-center {
+    background: linear-gradient(135deg, #1e1e2f, #3c1e5f);
+    color: #e0e0f8;
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #9575cd;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 4rem;
+    animation: fadeIn 1.5s ease-in-out;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.display-4 {
+    font-size: 3rem;
+    color: #d4bfff;
+    text-shadow: 2px 2px #000;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+.text-muted {
+    color: #b6a0e4 !important;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.lead {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
 }
 
-body {
-  margin-bottom: 60px;
+a {
+    color: #a779e9;
+    font-weight: bold;
+    text-decoration: underline;
+    transition: color 0.3s ease;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+a:hover {
+    color: #d1b3ff;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+/* Animación sutil */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
