@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RossiumWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9761fa21de3e76b9b1f6bbc9186133032f5575df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e450827b1be209bc6aaada69504268d0938db459")]
 [assembly: System.Reflection.AssemblyProductAttribute("RossiumWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RossiumWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
